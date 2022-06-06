@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
+## Miguel Manuel de Villena
 
-You can use the [editor on GitHub](https://github.com/manueldevillena/manueldevillena.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am passionate about data science, data analysis, and modelling and its multiple applications from neuroimaging to the energy transition. My PhD in Electrical Engineering and Computer Science used to deal with creating computational tools to assess various aspects of the integration of renewable electricity generation resources into today's power systems. Visit my [github](https://github.com/manueldevillena/) page to check out those tools.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/manueldevillena/manueldevillena.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+In the past, I have contributed to several projects such as [Dispa-Set](https://github.com/energy-modelling-toolkit/Dispa-SET) and I am currently involved in a project to facilitate the electrification of rural areas in developing countries making use of optimisation frameworks to size microgrids ([MicroGrids](https://github.com/squoilin/MicroGrids) and [Sizing_Energy_Communities](https://github.com/manueldevillena/sizing_energy_communities)).
