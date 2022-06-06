@@ -1,4 +1,4 @@
-layout: page
+layout: home
 title: Miguel Manuel de Villena's homepage
 
 
