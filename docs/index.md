@@ -1,7 +1,7 @@
 ---
 layout: home
 
-title: Miguel Manuel de Villena's homepage
+title: Miguel Manuel de Villena's profile
 ---
 
 I am passionate about data science, data analysis, and modelling and its multiple applications from neuroimaging to the energy transition. My PhD in Electrical Engineering and Computer Science used to deal with creating computational tools to assess various aspects of the integration of renewable electricity generation resources into today's power systems. Visit my [github](https://github.com/manueldevillena/) page to check out those tools.
